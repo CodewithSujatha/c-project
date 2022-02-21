@@ -1,6 +1,10 @@
-main () {
+ 
+ main() {
+	
+	biggest2();
 	biggest3();
 	factorial();
 	reverse();
-return 0;
+	sumof();
+	sorting();
 }
